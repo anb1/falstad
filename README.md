@@ -1,0 +1,2 @@
+# falstad
+Falstad ckt schematics
